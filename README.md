@@ -4,9 +4,6 @@
 
 A companion repo to go along with a blog post written by our Director, Simon Norman.
 
-- `main` branch: https://director.swrm.link
-- `preview` branch: https://git-example-git-feature-tailwind-css-swarmcreative.vercel.app/
-
 You can view the project here: https://git-example.vercel.app/
 
 You can find more about the author at the links below:
